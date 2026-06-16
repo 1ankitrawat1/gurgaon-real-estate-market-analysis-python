@@ -1,3 +1,5 @@
+# Gurgaon Real Estate Market Analysis
+
 ## Visualizations
 
 ### Top 10 Expensive Localities
@@ -15,8 +17,6 @@
 ### Top Developers by Median Price
 
 ![Top Developers by Median Price](outputs/charts/top_developers_by_median_price.png)
-
-# Gurgaon Real Estate Market Analysis
 
 ## Project Overview
 
